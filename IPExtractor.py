@@ -1,7 +1,7 @@
 import re
 
-# Open the input file
-with open('C:/users/jeh.k/Documents/RandomIP.txt', 'r') as file:
+# Open the input file (Replace with location of text file)
+with open('C:/users/', 'r') as file:
     # Read the file content
     content = file.read()
 
